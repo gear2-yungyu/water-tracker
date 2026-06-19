@@ -1,0 +1,17 @@
+{
+  "name": "고양이 물가게",
+  "short_name": "물가게",
+  "description": "물 마시고 고양이 가게를 키우는 앱",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e3f2fd",
+  "theme_color": "#1976d2",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
